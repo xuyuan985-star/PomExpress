@@ -1,0 +1,122 @@
+# ============================================================================
+# 目录布局约定：**项目本体** / **工作副产物** 物理分离
+# ============================================================================
+#   <parent>\PomExpress        ← 项目本体（本目录）：源代码 + 数据 + 文档
+#   <parent>\PomExpress_local  ← 工作副产物：运行环境、运行产物、构建产物
+#
+# 副产物区的内容（不在本仓库内，故无需 ignore，此处仅作说明）：
+#   m7_venv\   运行环境（Python 3.14 + 依赖）
+#   m7\        外部参考实现 本地拷贝（game_launcher 读 config.yaml 与一张模板图）
+#   logs\  state\  settings\  failure_reports\  reports\  runtime.db   运行产物
+#   _backup\   改前备份（回滚依据）
+#   _build\    打包产物（PyInstaller dist/build）
+#
+# 代码侧由 config/settings.py 的 RESOURCE_ROOT / DATA_ROOT 实现：
+#   RESOURCE_ROOT = 项目本体（只读资源）
+#   DATA_ROOT     = 副产物区（可写数据；该区不存在时回退项目本体=旧行为）
+# 因此**项目本体不再产生任何副产物**，清理残留只需处理一个目录。
+#
+# 下面这些 ignore 条目作为**兜底**保留：万一有人把副产物放回项目本体，
+# 至少不会误入库。
+# ============================================================================
+
+# 环境变量（禁止提交；.env.example 是模板需入库）
+.env
+*.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+m7_venv/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 运行时状态
+runtime.db
+runtime.db-*
+*.sqlite3
+
+# 内化的 Local 源码（66.8MB 第三方代码——不入库，运行时必须有；
+# 缺失时可用 tools/setup_m7.py 或从官方仓库拷贝）
+m7/
+
+# 运行时日志/快照/报告（不入库）
+logs/
+reports/
+dump/
+
+# 批量改写脚本的备份目录与文件（如 runtime.bak/、*.orig.bak —— 脚本改写前备份，
+# 供回滚；属本地中间产物，不入库）
+*.bak/
+*.bak
+*.orig
+*.orig.bak
+
+# 运行时失败记忆（FailureMemory 持久化，同 runtime.db 属运行时状态）
+memory/
+ingest/raw/events/*.jsonl
+
+# 原始视频/中间产物
+攻略视频/
+ingest/raw/frames/
+ingest/raw/events/*.json
+ingest/raw/videos/
+ingest/tmp/
+ingest/raw/analysis/
+
+# 密钥与本地配置
+settings.local.json
+
+# 企划/报告（不入库，仅本地）
+docs/企划书-*.md
+docs/阶段报告-*.md
+docs/变更与问题报告.md
+failure_reports/
+
+# 运行态任务状态（state/mission_state_*.json —— 同 runtime.db 属运行时状态，不入库）
+state/
+
+# 测试临时目录/产物（本机存在 ACL 残留目录，pytest 直跑会中断收集——见 CLAUDE.md 已知坑）
+tests/_tmp/
+tests/tmp*/
+tests/_tmp_test.txt
+tests/my_test.txt
+# 本机沙箱专用测试 helper（硬编码本机路径，仅供本地跑，不入库）
+tests/_run_*.py
+.tmp/
+
+# 审查报告与团队过程文档（不入库——含本机绝对路径与团队内部信息，
+# 仅本地保留。2026-09-11 从公开仓库撤出，历史提交未改写）
+docs/review/
+
+# 项目工作笔记（会话日志/进度交接/清理脚本等，不入库——仅本地保留）
+_research/
+
+# 受限环境下的 GUI 设置回退落盘点（gui/pages/settings.py 的 _SettingsStore：
+# 注册表 QSettings 写失败时降级 IniFormat 到此目录；正常桌面走注册表，不入库）
+settings/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 归档区（废弃文件/旧版本/草稿的本地归档，不参与版本管理）
+_backup/
+
+# 清理残留时锁死/不确定项的暂存区（用户明天手动处理，不入库）
+_cleanup_pending/
+
+# 验证用仓库副本（验证席为做注入-恢复实验而复制的仓库快照，属本地中间产物）
+.probe_*/
+
+# 测试临时轨迹（测试若需写轨迹文件应写 logs/ 或 tests/_tmp/，不写真实数据目录）
+knowledge/trajectories/test_*.json

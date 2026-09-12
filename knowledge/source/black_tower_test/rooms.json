@@ -1,0 +1,39 @@
+{
+  "spawn_room": "room_A",
+  "rooms": [
+    {
+      "id": "room_A",
+      "name": "收容舱段·中央大厅",
+      "observation": {
+        "threshold": 0.8
+      }
+    },
+    {
+      "id": "room_B",
+      "name": "收容舱段·左翼走廊",
+      "observation": {
+        "threshold": 0.8
+      }
+    },
+    {
+      "id": "base_zone",
+      "name": "基座舱段"
+    },
+    {
+      "id": "storage_zone",
+      "name": "收容舱段"
+    },
+    {
+      "id": "supply_zone",
+      "name": "支援舱段"
+    },
+    {
+      "id": "detention_zone",
+      "name": "禁闭舱段"
+    },
+    {
+      "id": "master_zone",
+      "name": "主控舱段"
+    }
+  ]
+}

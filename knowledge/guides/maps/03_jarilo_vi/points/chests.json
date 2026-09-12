@@ -1,0 +1,2035 @@
+[
+  {
+    "id": "03_jarilo_vi_administration_district_0001",
+    "name": "雅利洛-VI·行政区·宝箱01",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0002",
+    "name": "雅利洛-VI·行政区·宝箱02",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0003",
+    "name": "雅利洛-VI·行政区·宝箱03",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0004",
+    "name": "雅利洛-VI·行政区·宝箱04",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0005",
+    "name": "雅利洛-VI·行政区·宝箱05",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0006",
+    "name": "雅利洛-VI·行政区·宝箱06",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0007",
+    "name": "雅利洛-VI·行政区·宝箱07",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0008",
+    "name": "雅利洛-VI·行政区·宝箱08",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0009",
+    "name": "雅利洛-VI·行政区·宝箱09",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_administration_district_0010",
+    "name": "雅利洛-VI·行政区·宝箱10",
+    "type": "chest",
+    "region": "administration_district",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0001",
+    "name": "雅利洛-VI·大矿区·宝箱01",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0002",
+    "name": "雅利洛-VI·大矿区·宝箱02",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0003",
+    "name": "雅利洛-VI·大矿区·宝箱03",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0004",
+    "name": "雅利洛-VI·大矿区·宝箱04",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0005",
+    "name": "雅利洛-VI·大矿区·宝箱05",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0006",
+    "name": "雅利洛-VI·大矿区·宝箱06",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0007",
+    "name": "雅利洛-VI·大矿区·宝箱07",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0008",
+    "name": "雅利洛-VI·大矿区·宝箱08",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0009",
+    "name": "雅利洛-VI·大矿区·宝箱09",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0010",
+    "name": "雅利洛-VI·大矿区·宝箱10",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0011",
+    "name": "雅利洛-VI·大矿区·宝箱11",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0012",
+    "name": "雅利洛-VI·大矿区·宝箱12",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0013",
+    "name": "雅利洛-VI·大矿区·宝箱13",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0014",
+    "name": "雅利洛-VI·大矿区·宝箱14",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0015",
+    "name": "雅利洛-VI·大矿区·宝箱15",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0016",
+    "name": "雅利洛-VI·大矿区·宝箱16",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0017",
+    "name": "雅利洛-VI·大矿区·宝箱17",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0018",
+    "name": "雅利洛-VI·大矿区·宝箱18",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0019",
+    "name": "雅利洛-VI·大矿区·宝箱19",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_big_mine_0020",
+    "name": "雅利洛-VI·大矿区·宝箱20",
+    "type": "chest",
+    "region": "big_mine",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0001",
+    "name": "雅利洛-VI·残响回廊·宝箱01",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0002",
+    "name": "雅利洛-VI·残响回廊·宝箱02",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0003",
+    "name": "雅利洛-VI·残响回廊·宝箱03",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0004",
+    "name": "雅利洛-VI·残响回廊·宝箱04",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0005",
+    "name": "雅利洛-VI·残响回廊·宝箱05",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0006",
+    "name": "雅利洛-VI·残响回廊·宝箱06",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0007",
+    "name": "雅利洛-VI·残响回廊·宝箱07",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0008",
+    "name": "雅利洛-VI·残响回廊·宝箱08",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0009",
+    "name": "雅利洛-VI·残响回廊·宝箱09",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0010",
+    "name": "雅利洛-VI·残响回廊·宝箱10",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0011",
+    "name": "雅利洛-VI·残响回廊·宝箱11",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0012",
+    "name": "雅利洛-VI·残响回廊·宝箱12",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0013",
+    "name": "雅利洛-VI·残响回廊·宝箱13",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_echo_corridor_0014",
+    "name": "雅利洛-VI·残响回廊·宝箱14",
+    "type": "chest",
+    "region": "echo_corridor",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0001",
+    "name": "雅利洛-VI·边缘通路·宝箱01",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0002",
+    "name": "雅利洛-VI·边缘通路·宝箱02",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0003",
+    "name": "雅利洛-VI·边缘通路·宝箱03",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0004",
+    "name": "雅利洛-VI·边缘通路·宝箱04",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0005",
+    "name": "雅利洛-VI·边缘通路·宝箱05",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0006",
+    "name": "雅利洛-VI·边缘通路·宝箱06",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0007",
+    "name": "雅利洛-VI·边缘通路·宝箱07",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0008",
+    "name": "雅利洛-VI·边缘通路·宝箱08",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0009",
+    "name": "雅利洛-VI·边缘通路·宝箱09",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0010",
+    "name": "雅利洛-VI·边缘通路·宝箱10",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0011",
+    "name": "雅利洛-VI·边缘通路·宝箱11",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0012",
+    "name": "雅利洛-VI·边缘通路·宝箱12",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_edge_passage_0013",
+    "name": "雅利洛-VI·边缘通路·宝箱13",
+    "type": "chest",
+    "region": "edge_passage",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_everwinter_hill_0001",
+    "name": "雅利洛-VI·永冬岭·宝箱01",
+    "type": "chest",
+    "region": "everwinter_hill",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_everwinter_hill_0002",
+    "name": "雅利洛-VI·永冬岭·宝箱02",
+    "type": "chest",
+    "region": "everwinter_hill",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_everwinter_hill_0003",
+    "name": "雅利洛-VI·永冬岭·宝箱03",
+    "type": "chest",
+    "region": "everwinter_hill",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_everwinter_hill_0004",
+    "name": "雅利洛-VI·永冬岭·宝箱04",
+    "type": "chest",
+    "region": "everwinter_hill",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_everwinter_hill_0005",
+    "name": "雅利洛-VI·永冬岭·宝箱05",
+    "type": "chest",
+    "region": "everwinter_hill",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0001",
+    "name": "雅利洛-VI·铁卫禁区·宝箱01",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0002",
+    "name": "雅利洛-VI·铁卫禁区·宝箱02",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0003",
+    "name": "雅利洛-VI·铁卫禁区·宝箱03",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0004",
+    "name": "雅利洛-VI·铁卫禁区·宝箱04",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0005",
+    "name": "雅利洛-VI·铁卫禁区·宝箱05",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0006",
+    "name": "雅利洛-VI·铁卫禁区·宝箱06",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0007",
+    "name": "雅利洛-VI·铁卫禁区·宝箱07",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0008",
+    "name": "雅利洛-VI·铁卫禁区·宝箱08",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0009",
+    "name": "雅利洛-VI·铁卫禁区·宝箱09",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0010",
+    "name": "雅利洛-VI·铁卫禁区·宝箱10",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0011",
+    "name": "雅利洛-VI·铁卫禁区·宝箱11",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_iron_guard_zone_0012",
+    "name": "雅利洛-VI·铁卫禁区·宝箱12",
+    "type": "chest",
+    "region": "iron_guard_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0001",
+    "name": "雅利洛-VI·机械聚落·宝箱01",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0002",
+    "name": "雅利洛-VI·机械聚落·宝箱02",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0003",
+    "name": "雅利洛-VI·机械聚落·宝箱03",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0004",
+    "name": "雅利洛-VI·机械聚落·宝箱04",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0005",
+    "name": "雅利洛-VI·机械聚落·宝箱05",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0006",
+    "name": "雅利洛-VI·机械聚落·宝箱06",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0007",
+    "name": "雅利洛-VI·机械聚落·宝箱07",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0008",
+    "name": "雅利洛-VI·机械聚落·宝箱08",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0009",
+    "name": "雅利洛-VI·机械聚落·宝箱09",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_mechanical_landing_0010",
+    "name": "雅利洛-VI·机械聚落·宝箱10",
+    "type": "chest",
+    "region": "mechanical_landing",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0001",
+    "name": "雅利洛-VI·铆钉镇·宝箱01",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0002",
+    "name": "雅利洛-VI·铆钉镇·宝箱02",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0003",
+    "name": "雅利洛-VI·铆钉镇·宝箱03",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0004",
+    "name": "雅利洛-VI·铆钉镇·宝箱04",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0005",
+    "name": "雅利洛-VI·铆钉镇·宝箱05",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0006",
+    "name": "雅利洛-VI·铆钉镇·宝箱06",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0007",
+    "name": "雅利洛-VI·铆钉镇·宝箱07",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0008",
+    "name": "雅利洛-VI·铆钉镇·宝箱08",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0009",
+    "name": "雅利洛-VI·铆钉镇·宝箱09",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0010",
+    "name": "雅利洛-VI·铆钉镇·宝箱10",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0011",
+    "name": "雅利洛-VI·铆钉镇·宝箱11",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0012",
+    "name": "雅利洛-VI·铆钉镇·宝箱12",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rivet_town_0013",
+    "name": "雅利洛-VI·铆钉镇·宝箱13",
+    "type": "chest",
+    "region": "rivet_town",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rocktown_0001",
+    "name": "雅利洛-VI·磐岩镇·宝箱01",
+    "type": "chest",
+    "region": "rocktown",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rocktown_0002",
+    "name": "雅利洛-VI·磐岩镇·宝箱02",
+    "type": "chest",
+    "region": "rocktown",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rocktown_0003",
+    "name": "雅利洛-VI·磐岩镇·宝箱03",
+    "type": "chest",
+    "region": "rocktown",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rocktown_0004",
+    "name": "雅利洛-VI·磐岩镇·宝箱04",
+    "type": "chest",
+    "region": "rocktown",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rocktown_0005",
+    "name": "雅利洛-VI·磐岩镇·宝箱05",
+    "type": "chest",
+    "region": "rocktown",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rocktown_0006",
+    "name": "雅利洛-VI·磐岩镇·宝箱06",
+    "type": "chest",
+    "region": "rocktown",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_rocktown_0007",
+    "name": "雅利洛-VI·磐岩镇·宝箱07",
+    "type": "chest",
+    "region": "rocktown",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_suburban_snowfield_0001",
+    "name": "雅利洛-VI·城郊雪原·宝箱01",
+    "type": "chest",
+    "region": "suburban_snowfield",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_suburban_snowfield_0002",
+    "name": "雅利洛-VI·城郊雪原·宝箱02",
+    "type": "chest",
+    "region": "suburban_snowfield",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "03_jarilo_vi_suburban_snowfield_0003",
+    "name": "雅利洛-VI·城郊雪原·宝箱03",
+    "type": "chest",
+    "region": "suburban_snowfield",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  }
+]

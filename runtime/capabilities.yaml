@@ -1,0 +1,21 @@
+runtime_version: 0.1
+
+capabilities:
+  room_detect:
+    status: mock
+  portal_transition:
+    status: mock
+  visual_move:
+    status: experimental
+  combat:
+    status: manual
+  puzzle:
+    status: disabled
+  home_return:
+    status: not_implemented
+  ocr:
+    status: ready
+  template_match:
+    status: ready
+  vlm_vision:
+    status: ready

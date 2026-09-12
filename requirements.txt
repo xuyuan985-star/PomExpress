@@ -1,0 +1,21 @@
+# 帕姆巡宝 PomExpress 运行时依赖（锁定版本，禁止浮漂）
+# 安装：pip install -r requirements.txt
+#
+# 版本选择依据：Python 3.14 对旧版 numpy / opencv / pillow 没有预编译 wheel，
+# 强行安装会触发源码编译并失败——故统一取 3.14 已有 wheel 的版本。
+# 升级任一依赖前先确认该版本存在 cp314 wheel。
+#
+# 运行环境位于项目同级的 PomExpress_local/m7_venv/（见 docs/目录布局.md）。
+numpy==2.5.2
+pillow==12.3.0
+PyAutoGUI==0.9.54
+pywin32==312
+PyYAML==6.0.3
+requests==2.34.2
+opencv-python==5.0.0.93
+mss==10.2.0
+ruamel.yaml==0.19.1
+PySide6==6.11.1
+PySide6-Fluent-Widgets==1.11.3
+keyboard==0.13.5
+pynput==1.8.2

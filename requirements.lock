@@ -1,0 +1,22 @@
+# requirements.lock（Sprint C：精确版本冻结——防供应链漂移/投毒复发）
+# 安装（带 hash 校验）：
+#   pip install --require-hashes -r requirements.lock
+# 重新生成 hash（联网环境）：
+#   pip download -r requirements.lock -d .lockwheel && pip hash ...
+# 注：hash 校验用于防供应链漂移；变更版本后须按上面命令重新生成。
+#
+# --- 运行时核心（本机已验证版本） ---
+numpy==2.2.6
+pillow==10.4.0
+PyAutoGUI==0.9.54
+pywin32==312
+PyYAML==6.0.3
+requests==2.34.2
+
+# --- 识别与输入（同上，精确版本） ---
+# rapidocr-onnxruntime
+# mss
+# onnxruntime-directml
+
+# --- GUI（独立 venv） ---
+# PySide6

@@ -1,0 +1,420 @@
+[
+  {
+    "id": "02_herta_space_station_base_zone_0007",
+    "name": "空间站「黑塔」·基座舱段·宝箱07",
+    "type": "chest",
+    "region": "base_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_base_zone_0008",
+    "name": "空间站「黑塔」·基座舱段·宝箱08",
+    "type": "chest",
+    "region": "base_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_base_zone_0009",
+    "name": "空间站「黑塔」·基座舱段·宝箱09",
+    "type": "chest",
+    "region": "base_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_detention_zone_0006",
+    "name": "空间站「黑塔」·禁闭舱段·宝箱06",
+    "type": "chest",
+    "region": "detention_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_detention_zone_0007",
+    "name": "空间站「黑塔」·禁闭舱段·宝箱07",
+    "type": "chest",
+    "region": "detention_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_detention_zone_0008",
+    "name": "空间站「黑塔」·禁闭舱段·宝箱08",
+    "type": "chest",
+    "region": "detention_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_detention_zone_0009",
+    "name": "空间站「黑塔」·禁闭舱段·宝箱09",
+    "type": "chest",
+    "region": "detention_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_detention_zone_0010",
+    "name": "空间站「黑塔」·禁闭舱段·宝箱10",
+    "type": "chest",
+    "region": "detention_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_detention_zone_0011",
+    "name": "空间站「黑塔」·禁闭舱段·宝箱11",
+    "type": "chest",
+    "region": "detention_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_detention_zone_0012",
+    "name": "空间站「黑塔」·禁闭舱段·宝箱12",
+    "type": "chest",
+    "region": "detention_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_storage_zone_0009",
+    "name": "空间站「黑塔」·收容舱段·宝箱09",
+    "type": "chest",
+    "region": "storage_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_storage_zone_0010",
+    "name": "空间站「黑塔」·收容舱段·宝箱10",
+    "type": "chest",
+    "region": "storage_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_storage_zone_0011",
+    "name": "空间站「黑塔」·收容舱段·宝箱11",
+    "type": "chest",
+    "region": "storage_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_storage_zone_0012",
+    "name": "空间站「黑塔」·收容舱段·宝箱12",
+    "type": "chest",
+    "region": "storage_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_storage_zone_0013",
+    "name": "空间站「黑塔」·收容舱段·宝箱13",
+    "type": "chest",
+    "region": "storage_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_storage_zone_0014",
+    "name": "空间站「黑塔」·收容舱段·宝箱14",
+    "type": "chest",
+    "region": "storage_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_storage_zone_0015",
+    "name": "空间站「黑塔」·收容舱段·宝箱15",
+    "type": "chest",
+    "region": "storage_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_support_zone_0001",
+    "name": "空间站「黑塔」·support_zone·宝箱01",
+    "type": "chest",
+    "region": "supply_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_support_zone_0002",
+    "name": "空间站「黑塔」·support_zone·宝箱02",
+    "type": "chest",
+    "region": "supply_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_support_zone_0003",
+    "name": "空间站「黑塔」·support_zone·宝箱03",
+    "type": "chest",
+    "region": "supply_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_support_zone_0004",
+    "name": "空间站「黑塔」·support_zone·宝箱04",
+    "type": "chest",
+    "region": "supply_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  },
+  {
+    "id": "02_herta_space_station_support_zone_0005",
+    "name": "空间站「黑塔」·support_zone·宝箱05",
+    "type": "chest",
+    "region": "supply_zone",
+    "x": null,
+    "y": null,
+    "rarity": null,
+    "tier": null,
+    "note": "骨架空位（真实数量来自地图工具）",
+    "coordinate_type": "normalized",
+    "status": "empty",
+    "resolution": [
+      1280,
+      720
+    ],
+    "confidence": null,
+    "source_video": null
+  }
+]

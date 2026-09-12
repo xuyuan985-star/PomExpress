@@ -1,0 +1,58 @@
+[
+  {
+    "id": "door_A",
+    "from": "room_A",
+    "to": "room_B",
+    "kind": "loading",
+    "trigger": {
+      "template": "door.png",
+      "threshold": 0.8,
+      "scale_range": [
+        0.9,
+        1.1
+      ]
+    },
+    "load_wait": 8
+  },
+  {
+    "id": "tp_herta_base",
+    "from": "room_A",
+    "to": "base_zone",
+    "kind": "map_transfer",
+    "steps": [
+      {
+        "template": "map:map_0.png",
+        "threshold": 0.9
+      },
+      {
+        "template": "map:map_0_point.png",
+        "threshold": 0.9
+      },
+      {
+        "template": "map:transfer.png",
+        "threshold": 0.9
+      }
+    ],
+    "load_wait": 10
+  },
+  {
+    "id": "tp_herta_base_start",
+    "from": "room_A",
+    "to": "base_zone",
+    "kind": "map_transfer",
+    "map_start": true,
+    "source": "m7/3rdparty/外部参考实现/map/HuangQuan/map_1-1_1.json",
+    "description": "地图数据_1-1_1.json start 段——base_zone 传送（map→orientation→region→transfer_point→transfer→space→await）",
+    "steps": [
+      {"action": "map", "hotkey": "m"},
+      {"action": "orientation", "template": "map:orientation_1.png", "threshold": 0.9, "optional": true},
+      {"action": "orientation", "template": "map:orientation_2.png", "threshold": 0.9, "optional": true},
+      {"action": "region", "template": "map:map_1.png", "threshold": 0.9, "delay": 2.0},
+      {"action": "transfer_point", "template": "map:map_1_point.png", "threshold": 0.93, "delay": 1.5},
+      {"action": "transfer", "template": "map:transfer.png", "threshold": 0.93, "delay": 0.2},
+      {"action": "space", "key": "space", "wait": 0.5},
+      {"action": "await", "seconds": 2.0}
+    ],
+    "load_wait": 10
+  }
+]

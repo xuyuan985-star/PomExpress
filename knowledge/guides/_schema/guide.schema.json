@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "帕姆巡宝 攻略存储 schema（参照互动地图结构）",
+  "definitions": {
+    "point": {
+      "type": "object",
+      "required": ["id", "name", "type", "region", "x", "y"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+        "name": {"type": "string"},
+        "type": {"enum": ["chest", "warptrotter", "puzzle", "book", "enemy", "achievement", "quest", "shop", "anchor"]},
+        "region": {"type": "string"},
+        "x": {"type": "number", "minimum": 0, "maximum": 1},
+        "y": {"type": "number", "minimum": 0, "maximum": 1},
+        "rarity": {"enum": ["normal", "rare", "precious", "luxurious", "warptrotter"]},
+        "tier": {"enum": ["T0", "T1", "T2", "T3"]},
+        "note": {"type": "string"},
+        "link": {"type": "string"}
+      }
+    },
+    "area": {
+      "type": "object",
+      "required": ["id", "name"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+        "name": {"type": "string"},
+        "aliases": {"type": "array", "items": {"type": "string"}},
+        "note": {"type": "string"}
+      }
+    },
+    "map": {
+      "type": "object",
+      "required": ["map_id", "name", "interactive_map_id"],
+      "properties": {
+        "map_id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+        "name": {"type": "string"},
+        "interactive_map_id": {"type": "integer"},
+        "game_version": {"type": "string"},
+        "note": {"type": "string"}
+      }
+    }
+  },
+  "type": "object",
+  "properties": {
+    "map.json": {"$ref": "#/definitions/map"},
+    "areas": {"type": "array", "items": {"$ref": "#/definitions/area"}},
+    "points": {"type": "array", "items": {"$ref": "#/definitions/point"}}
+  }
+}

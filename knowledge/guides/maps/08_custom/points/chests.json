@@ -1,0 +1,9 @@
+[
+ {
+  "id": "自定义-1",
+  "name": "自定义-1",
+  "region": "custom",
+  "type": "chest",
+  "trajectory": "自定义-1.json"
+ }
+]

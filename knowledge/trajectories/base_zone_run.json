@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "recorded_at": 1786472332.690495,
+  "client_w": 1920,
+  "client_h": 1080,
+  "game_sensitivity": 4,
+  "source": "A 线 P0 黑塔 1 舱段——base_zone 入口→宝箱 0006（占位轨迹，实际录制覆盖）",
+  "description": "跑图轨迹：从 base_zone 传送落点后，视角微调 + 前移动向宝箱 0006_87d3",
+  "events": [
+    {"time_sleep": 1.5},
+    {"view_dx": 0.0005, "view_dy": -0.0028, "time_sleep": 1.38},
+    {"key": "w", "duration": 1.2, "time_sleep": 0.1},
+    {"view_dx": -0.0016, "view_dy": 0.0028, "time_sleep": 1.5},
+    {"key": "w", "duration": 1.0, "time_sleep": 0.1},
+    {"view_dx": 0.0016, "view_dy": -0.0019, "time_sleep": 1.2},
+    {"key": "w", "duration": 0.8, "time_sleep": 0.1},
+    {"view_dx": 0.0, "view_dy": 0.001, "time_sleep": 1.0},
+    {"click": {"nx": 0.5, "ny": 0.55}, "duration": 0.05, "time_sleep": 0.5},
+    {"time_sleep": 2.0}
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "chest_A",
+    "room": "room_A",
+    "template": "chest.png",
+    "threshold": 0.8,
+    "scale_range": [
+      0.9,
+      1.1
+    ],
+    "state_gate": null,
+    "verify_signal": "minimap_chest_icon",
+    "rarity": "normal",
+    "chest_id": "chest_A",
+    "interaction": "press_f",
+    "pre_verify": false
+  }
+]

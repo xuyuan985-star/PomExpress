@@ -1,0 +1,42 @@
+name: CI（Bug 199：提交自动检查 lint + tests + gate）
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt 2>$null
+          pip install pyflakes ruff pip-audit
+      - name: Lint（AST 语法 + import 检查）
+        run: python tools/architecture_check.py --json
+      # Python 版本错配说明：本 CI 固定 3.11，但项目真实环境是 3.14.2。
+      # 3.11 的 CI 信号价值有限（requirements.txt 锁的 3.14 兼容版可能在 3.11 装不上）。
+      # 权威门禁是本机 m7_venv\Scripts\python.exe tools\run_gate.py --skip-smoke（四步 GATE PASS exit 0）。
+      - name: Ruff（Bug 472 静态检查，只提示不拦截）
+        run: ruff check config gui ingest runtime security tools app --ignore E501,W291,W293 2>$null; exit 0
+      - name: Dep audit（Bug 474 依赖漏洞扫描，只提示不拦截）
+        run: pip-audit 2>$null; exit 0
+      - name: Tests（pytest 全量）
+        run: |
+          python -m pytest tests -q --no-header
+          python tools/smoke_orchestrator.py
+      - name: Coverage（Bug 469 覆盖率门槛，只提示不拦截）
+        run: |
+          pip install coverage 2>$null
+          coverage run --source=runtime,ingest,config -m pytest tests -q --no-header
+          coverage report --fail-under=40 2>$null; exit 0
+      - name: Gate
+        run: python tools/run_gate.py --skip-smoke
+      - name: Compile check
+        run: python -m compileall -q config gui ingest runtime security tools app
